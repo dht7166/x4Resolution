@@ -14,6 +14,7 @@ Output image might have artifacts, the usual convolution blocky stuff.
 
 Here are some output, there is more in [example_input](https://github.com/dht7166/x4Resolution/tree/master/example_input).
 
-![cat_inp](example_input/flickr_cat_000311_input.jpg = 512x512)
+![cat_inp](example_input/flickr_cat_000311_input.jpg){:height="700px" width="400px"}
+
 ![cat_pred](example_input/flickr_cat_000311_x4.jpg = 512x512)
 ![cat_truth](example_input/flickr_cat_000311.jpg = 512x512)
