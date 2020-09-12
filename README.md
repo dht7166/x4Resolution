@@ -7,6 +7,9 @@ First is 64x9x9, then 32x5x5, then 3x5x5. No padding.
 
 I used perceptionloss with MobileNet. I chose it since it is small. In other words, I could gain performance with better model like Xception.
 
+Trained using [Animal Faces](https://www.kaggle.com/andrewmvd/animal-faces) for about 30 epochs on Google Colab.
+But I tested using my personal machine with Python 3.7, keras 2.1.3 and tensorflow 2.1. Opencv-python and numpy is also needed, any version would suffice.
+
 Usage is simple, look at [prediction.py](https://github.com/dht7166/x4Resolution/blob/master/prediction.py).
 
 Ofc, this is no SOTA. It is just spare time project. What is cool is that the model is small, the weight, with the model is < 1mb. Ideal for niche scenario.
