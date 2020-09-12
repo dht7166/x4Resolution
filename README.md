@@ -12,10 +12,10 @@ Usage is simple, look at [prediction.py](https://github.com/dht7166/x4Resolution
 Ofc, this is no SOTA. It is just spare time project. What is cool is that the model is small, the weight, with the model is < 1mb. Ideal for niche scenario.
 Output image might have artifacts, the usual convolution blocky stuff. Also 16 pixels from all size will be cropped. I am too lazy to add padding.
 
-Here are some output, there is more in [example_input](https://github.com/dht7166/x4Resolution/tree/master/example_input).
+Here are some output, there is more in [example_input](https://github.com/dht7166/x4Resolution/tree/master/example_input). From the order of input, prediction, and truth.
 
 
 
-<img src=example_input/flickr_cat_000311_input.jpg width="48">
-<img src=example_input/flickr_cat_000311__x4.jpg width="48">
-<img src=example_input/flickr_cat_000311 width="48">
+<img src=example_input/flickr_cat_000311_input.jpg width="512" height="612">
+<img src=example_input/flickr_cat_000311__x4.jpg width="512" height="612">
+<img src=example_input/flickr_cat_000311.jpg width="512" height="612">
