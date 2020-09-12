@@ -19,6 +19,6 @@ Here are some output, there is more in [example_input](https://github.com/dht716
 
 
 
-<img src=example_input/flickr_cat_000311_input.jpg width="512" height="612">
-<img src=example_input/flickr_cat_000311__x4.jpg width="512" height="612">
-<img src=example_input/flickr_cat_000311.jpg width="512" height="612">
+<img src=example_input/flickr_cat_000314_input.jpg width="300" height="300">
+<img src=example_input/flickr_cat_000314__x4.jpg width="300" height="300">
+<img src=example_input/flickr_cat_000314.jpg width="300" height="300">
