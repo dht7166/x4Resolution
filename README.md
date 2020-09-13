@@ -1,4 +1,4 @@
-# Single Image x4 Resolution
+# Single Image x4 Resolution (x4 each dimension, thus x16)
 
 I used works by [Dong, et al 2015](https://arxiv.org/pdf/1501.00092.pdf)
 
